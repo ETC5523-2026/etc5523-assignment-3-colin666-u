@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Hi, I’m Fuguang Chen, a Master’s student in Digital Economy at Monash University.\nI am interested in data analysis, digital technologies, and how data can help us better understand real-world problems.\nThis blog was created for ETC5523: Communicating with Data. Here, I share data-driven stories, visualisations, and insights from my analysis.\nFeel free to explore my work and visit my GitHub profile to see more of my projects."
-  },
-  {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Why Do Hospital Infections Remain a Problem in Germany?",
@@ -68,5 +61,19 @@
     "title": "Why Do Hospital Infections Remain a Problem in Germany?",
     "section": "Reference",
     "text": "Reference\nZacher, B., Haller, S., Willrich, N., et al. (2019). Application of a new methodology and R package reveals a high burden of healthcare-associated infections (HAI) in Germany compared to the average in the European Union/European Economic Area, 2011 to 2012. Eurosurveillance, 24(46), 1900135.\nhttps://doi.org/10.2807/1560-7917.ES.2019.24.46.1900135"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi, I’m Fuguang Chen, a Master’s student in Digital Economy at Monash University.\nI am interested in data analysis, digital technologies, and how data can help us better understand real-world problems.\nThis blog was created for ETC5523: Communicating with Data. Here, I share data-driven stories, visualisations, and insights from my analysis.\nFeel free to explore my work and visit my GitHub profile to see more of my projects."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ETC5523 Blog Assessment",
+    "section": "",
+    "text": "Why Do Hospital Infections Remain a Problem in Germany?\n\n\nWhy fewer infections in hospitals do not always mean less harm across a country\n\n\n\nHealthcare\n\nGermany\n\nData Story\n\n\n\n\n\n\n\n\n\nOct 13, 2026\n\n\nFuguang Chen\n\n\n\n\n\nNo matching items"
   }
 ]
