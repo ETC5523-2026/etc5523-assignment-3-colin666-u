@@ -1,13 +1,19 @@
 ---
-title: "About"
+title: "About Me"
 image: profile.jpg
 about:
   template: jolla
   links:
     - icon: github
-      text: Github
-      href: https://github.com/etc5523-2022
-
+      text: GitHub
+      href: https://github.com/Colin666-u
 ---
 
-This is a blog template for the ETC5523 Communicating with Data assessment at Monash University.
+Hi, I'm Fuguang Chen, a Master's student in Digital Economy at Monash University.
+
+I am interested in data analysis, digital technologies, and how data can help us better understand real-world problems.
+
+This blog was created for ETC5523: Communicating with Data. Here, I share data-driven stories, visualisations, and insights from my analysis.
+
+Feel free to explore my work and visit my GitHub profile to see more of my projects.
+
