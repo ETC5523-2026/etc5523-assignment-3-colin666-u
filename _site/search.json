@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Why Do Hospital Infections Remain a Problem in Germany?",
+    "section": "",
+    "text": "When we visit a hospital, we expect to get better, not develop another infection.\nHowever, some patients acquire infections while receiving healthcare. These are known as healthcare-associated infections (HAIs). They can lead to longer hospital stays, serious illness and, in some cases, death.\nGermany presents an interesting situation. Its hospitals had a relatively low estimated infection rate compared with the European Union and European Economic Area (EU/EEA). Yet the estimated number of infections across its population was relatively high.\nHow can both of these things be true?\nA study by Zacher and colleagues (2019) helps explain why looking only at hospital infection rates may not tell the whole story."
+  },
+  {
+    "objectID": "posts/welcome/index.html#the-hidden-problem-behind-hospital-infections",
+    "href": "posts/welcome/index.html#the-hidden-problem-behind-hospital-infections",
+    "title": "Why Do Hospital Infections Remain a Problem in Germany?",
+    "section": "",
+    "text": "When we visit a hospital, we expect to get better, not develop another infection.\nHowever, some patients acquire infections while receiving healthcare. These are known as healthcare-associated infections (HAIs). They can lead to longer hospital stays, serious illness and, in some cases, death.\nGermany presents an interesting situation. Its hospitals had a relatively low estimated infection rate compared with the European Union and European Economic Area (EU/EEA). Yet the estimated number of infections across its population was relatively high.\nHow can both of these things be true?\nA study by Zacher and colleagues (2019) helps explain why looking only at hospital infection rates may not tell the whole story."
+  },
+  {
+    "objectID": "posts/welcome/index.html#looking-at-the-evidence",
+    "href": "posts/welcome/index.html#looking-at-the-evidence",
+    "title": "Why Do Hospital Infections Remain a Problem in Germany?",
+    "section": "Looking at the evidence",
+    "text": "Looking at the evidence\nThe study used European hospital survey data from 2011–2012 and statistical modelling to estimate the impact of five common healthcare-associated infections.\nThe researchers examined the number of infections, deaths attributed to these infections, and the amount of healthy life lost.\nFor Germany in 2011, their model estimated approximately 478,000 infections and 16,200 deaths attributed to these infections.\nThe study also estimated around 249,000 disability-adjusted life years (DALYs). This measure combines years of life lost through early death and years spent living with illness or disability.\nThese are estimates, not exact counts, but they show why hospital infections remain an important public health issue."
+  },
+  {
+    "objectID": "posts/welcome/index.html#why-the-numbers-tell-different-stories",
+    "href": "posts/welcome/index.html#why-the-numbers-tell-different-stories",
+    "title": "Why Do Hospital Infections Remain a Problem in Germany?",
+    "section": "Why the numbers tell different stories",
+    "text": "Why the numbers tell different stories\nThere are two ways to look at the problem.\nThe first measures infections among hospital patients. The second considers estimated infections across the country’s entire population over one year.\nThe results tell different stories.\n\n\n\n\n\n\n\n\nFigure 1: Estimated healthcare-associated infection incidence in Germany and the EU/EEA, using two different population measures.\n\n\n\n\n\nAs shown in Figure 1, Germany had fewer estimated infections per 100 hospital patients than the EU/EEA average: 2.40 compared with 2.83.\nHowever, when annual infections were measured across the population, Germany’s estimated rate was higher: 592.1 infections per 100,000 people compared with 467.9.\nThese two measures have different denominators and should not be compared directly as if they were the same rate.\nOne possible explanation is Germany’s relatively high use of hospital services. When more people are admitted to hospital, there may be more opportunities for infections to occur across the population, even when the infection rate among hospital patients is relatively low.\nThis is why a low hospital infection rate does not necessarily mean a low national burden."
+  },
+  {
+    "objectID": "posts/welcome/index.html#how-large-was-the-impact",
+    "href": "posts/welcome/index.html#how-large-was-the-impact",
+    "title": "Why Do Hospital Infections Remain a Problem in Germany?",
+    "section": "How large was the impact?",
+    "text": "How large was the impact?\nThe study estimated a substantial number of infections and related health consequences in Germany.\n\n\n\nTable 1: Estimated burden of five common healthcare-associated infections in Germany. Source: Zacher et al. (2019).\n\n\n\n\n\nEstimated measure\nGermany, 2011\n\n\n\n\nInfection episodes\n478,222\n\n\nAttributable deaths\n16,245\n\n\nHealthy life years lost (DALYs)\n248,920\n\n\n\n\n\n\nAs shown in Table 1, the consequences extend beyond the number of infection episodes.\nSome infections contribute to deaths, while others result in illness or disability. Looking at these outcomes together helps us understand the wider impact on public health.\nThe table presents modelled estimates rather than exact counts of patients. It covers five infection types, not every possible healthcare-associated infection."
+  },
+  {
+    "objectID": "posts/welcome/index.html#what-should-we-learn-from-these-findings",
+    "href": "posts/welcome/index.html#what-should-we-learn-from-these-findings",
+    "title": "Why Do Hospital Infections Remain a Problem in Germany?",
+    "section": "What should we learn from these findings?",
+    "text": "What should we learn from these findings?\nThe main lesson is that hospital performance cannot be assessed using a single statistic.\nA relatively low infection rate among hospital patients is encouraging, but it does not automatically mean that the total impact across the country is small.\nHospital use also matters. A country with more hospital admissions may experience a greater number of infection episodes across its population.\nFor healthcare decision-makers, this suggests the importance of continuing infection prevention and considering ways to reduce avoidable hospital stays.\nFor the general public, the message is simpler: a positive-looking hospital statistic may not tell the complete story."
+  },
+  {
+    "objectID": "posts/welcome/index.html#an-important-limitation",
+    "href": "posts/welcome/index.html#an-important-limitation",
+    "title": "Why Do Hospital Infections Remain a Problem in Germany?",
+    "section": "An important limitation",
+    "text": "An important limitation\nThese results are based on statistical models using hospital data from 2011–2012. They should not be interpreted as Germany’s current infection burden.\nThe analysis included five common types of infection rather than all healthcare-associated infections.\nThe estimates also contain uncertainty. In particular, although Germany’s estimated burden of healthy life years lost was slightly higher than the EU/EEA average, the uncertainty was too large to establish a clear difference.\nFinally, the study suggests that hospital use may help explain the findings, but it does not prove that reducing hospital admissions would produce a particular reduction in infections."
+  },
+  {
+    "objectID": "posts/welcome/index.html#conclusion",
+    "href": "posts/welcome/index.html#conclusion",
+    "title": "Why Do Hospital Infections Remain a Problem in Germany?",
+    "section": "Conclusion",
+    "text": "Conclusion\nGermany’s experience shows why healthcare statistics need context.\nAlthough its estimated infection rate among hospital patients was relatively low, the annual estimated infection burden across its population was still substantial.\nThe difference becomes easier to understand when we consider how frequently hospital services are used and what each measure actually counts.\nThe key takeaway is that we should look beyond a single hospital infection rate when evaluating public health outcomes.\nUnderstanding both hospital-level rates and the wider population impact can support more informed discussions about healthcare quality and infection prevention."
+  },
+  {
+    "objectID": "posts/welcome/index.html#reference",
+    "href": "posts/welcome/index.html#reference",
+    "title": "Why Do Hospital Infections Remain a Problem in Germany?",
+    "section": "Reference",
+    "text": "Reference\nZacher, B., Haller, S., Willrich, N., et al. (2019). Application of a new methodology and R package reveals a high burden of healthcare-associated infections (HAI) in Germany compared to the average in the European Union/European Economic Area, 2011 to 2012. Eurosurveillance, 24(46), 1900135.\nhttps://doi.org/10.2807/1560-7917.ES.2019.24.46.1900135"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Fuguang Chen",
+    "section": "",
+    "text": "Business Analysis\nMonash University | Melbourne, Australia\nHi, I’m Fuguang Chen, a master’s student studying Business Analysis at Monash University.\nI am interested in data analysis, digital technologies, and understanding real-world problems through data.\nThis website was created for ETC5523: Communicating with Data. My blog explores healthcare-related data and presents research findings in a way that is accessible to general readers.\nThrough this project, I hope to make complex information easier to understand using clear explanations, visualisations, and data storytelling."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Fuguang’s Data Stories",
+    "section": "",
+    "text": "Why Do Hospital Infections Remain a Problem in Germany?\n\n\nWhy fewer infections in hospitals do not always mean less harm across a country\n\n\n\nHealthcare\n\nGermany\n\nData Story\n\n\n\n\n\n\n\n\n\nOct 13, 2026\n\n\nFuguang Chen\n\n\n\n\n\nNo matching items"
+  }
+]
