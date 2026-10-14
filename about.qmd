@@ -12,11 +12,11 @@ about:
       href: https://www.monash.edu/
 ---
 
-### Master of Digital Economy
+### Business Analysis
 
 **Monash University | Melbourne, Australia**
 
-Hi, I'm Fuguang Chen, a Master's student in Digital Economy at Monash University.
+Hi, I'm Fuguang Chen, a master's student studying Business Analysis at Monash University.
 
 I am interested in data analysis, digital technologies, and understanding real-world problems through data.
 
