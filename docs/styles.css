@@ -1,0 +1,69 @@
+/* css styles */
+
+/* General website appearance */
+body {
+  background-color: #FAFBFC;
+  color: #263445;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.7;
+}
+
+/* Navigation bar */
+.navbar {
+  background-color: #FFFFFF;
+  border-bottom: 1px solid #E3E8EF;
+}
+
+/* Article title banner */
+.quarto-title-banner {
+  background-color: #17365D !important;
+  color: #FFFFFF !important;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+
+/* Make all title banner text readable */
+.quarto-title-banner h1,
+.quarto-title-banner .title,
+.quarto-title-banner .subtitle,
+.quarto-title-banner .quarto-title-meta,
+.quarto-title-banner .quarto-title-meta-heading,
+.quarto-title-banner .quarto-title-meta-contents,
+.quarto-title-banner .quarto-category {
+  color: #FFFFFF !important;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #17365D;
+  font-weight: 650;
+}
+
+/* Links */
+a {
+  color: #176B87;
+}
+
+a:hover {
+  color: #0D445B;
+}
+
+/* Figures and tables */
+figure {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+table {
+  font-size: 0.95rem;
+}
+
+th {
+  background-color: #EAF1F7;
+  color: #17365D;
+}
+
+/* About page */
+.about-entity {
+  margin-top: 2rem;
+}
