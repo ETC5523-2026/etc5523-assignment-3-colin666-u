@@ -24,3 +24,4 @@ This blog is written for general readers who are interested in health and health
 ## Generative AI Declaration
 
 I used ChatGPT to help plan the structure of my Quarto blog, adapt my Assignment 2 report for a general audience, draft and revise blog text, develop R code for data visualisation, suggest CSS styling, and troubleshoot website formatting. I reviewed and revised the generated content and compared the reported figures with my Assignment 2 report.
+ 
