@@ -5,7 +5,7 @@ Welcome to my personal data blog for ETC5523: Communicating with Data at Monash 
 
 **Author:** Fuguang Chen
 
-**Program:** Master of Digital Economy, Monash University
+**Field of Study:** Business Analysis
 
 **Website:** https://etc5523-2026.github.io/etc5523-assignment-3-colin666-u/
 
