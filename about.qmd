@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Fuguang Chen"
 image: my-photo.jpg
 about:
   template: jolla
@@ -7,13 +7,19 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/Colin666-u
+    - icon: mortarboard
+      text: Monash University
+      href: https://www.monash.edu/
 ---
+
+### Master of Digital Economy
+
+**Monash University | Melbourne, Australia**
 
 Hi, I'm Fuguang Chen, a Master's student in Digital Economy at Monash University.
 
-I am interested in data analysis, digital technologies, and how data can help us better understand real-world problems.
+I am interested in data analysis, digital technologies, and understanding real-world problems through data.
 
-This blog was created for ETC5523: Communicating with Data. Here, I share data-driven stories, visualisations, and insights from my analysis.
+This website was created for ETC5523: Communicating with Data. My blog explores healthcare-related data and presents research findings in a way that is accessible to general readers.
 
-Feel free to explore my work and visit my GitHub profile to see more of my projects.
-
+Through this project, I hope to make complex information easier to understand using clear explanations, visualisations, and data storytelling.
